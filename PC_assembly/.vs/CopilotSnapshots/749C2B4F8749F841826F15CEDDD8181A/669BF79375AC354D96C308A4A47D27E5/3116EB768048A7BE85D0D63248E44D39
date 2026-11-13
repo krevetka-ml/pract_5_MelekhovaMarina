@@ -1,0 +1,68 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Collections.ObjectModel;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace PC_assembly.Pages
+{
+    public partial class ListPage : Page
+    {
+        public ObservableCollection<Build> Builds { get; set; }
+
+        public Build? SelectedBuild { get; set; }
+
+        public ListPage()
+        {
+            Builds = Storage.Load();
+            InitializeComponent();
+            DataContext = this;
+        }
+
+        private void AddButton_Click(object sender, RoutedEventArgs e)
+        {
+            new BuildPage(Builds)
+        }
+
+        private void EditItem_Click(object sender, RoutedEventArgs e)
+        {
+            if (SelectedBuild == null)
+            {
+                MessageBox.Show("Не выбран элемент списка");
+                return;
+            }
+            new BuildPage(Builds, SelectedBuild)
+        }
+
+        private void DeleteItem_Click(object sender, RoutedEventArgs e)
+        {
+            if (SelectedBuild == null)
+            {
+                MessageBox.Show("Сборка не выбрана");
+                return;
+            }
+            bool confirm = MessageBox.Show(
+                    "Вы действительно хотите удалить запись?",
+                    "Подтверждение удаления",
+                    MessageBoxButton.YesNo,
+                    MessageBoxImage.Question
+                ) == MessageBoxResult.Yes;
+
+            if (confirm)
+            {
+                Builds.Remove(SelectedBuild);
+                Storage.Save(Builds);
+            }
+        }
+    }
+}

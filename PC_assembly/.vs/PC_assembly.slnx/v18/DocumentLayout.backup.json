@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3_\u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442 5\\PC_assembly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A124FFF-6369-FB19-2800-16CCF63AAD5C}|PC_assembly\\PC_assembly.csproj|d:\\3_\u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442 5\\pc_assembly\\pc_assembly\\pages\\componentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A124FFF-6369-FB19-2800-16CCF63AAD5C}|PC_assembly\\PC_assembly.csproj|solutionrelative:pc_assembly\\pages\\componentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A124FFF-6369-FB19-2800-16CCF63AAD5C}|PC_assembly\\PC_assembly.csproj|d:\\3_\u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442 5\\pc_assembly\\pc_assembly\\pages\\listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A124FFF-6369-FB19-2800-16CCF63AAD5C}|PC_assembly\\PC_assembly.csproj|solutionrelative:pc_assembly\\pages\\listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A124FFF-6369-FB19-2800-16CCF63AAD5C}|PC_assembly\\PC_assembly.csproj|d:\\3_\u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442 5\\pc_assembly\\pc_assembly\\pages\\buildpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A124FFF-6369-FB19-2800-16CCF63AAD5C}|PC_assembly\\PC_assembly.csproj|solutionrelative:pc_assembly\\pages\\buildpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A124FFF-6369-FB19-2800-16CCF63AAD5C}|PC_assembly\\PC_assembly.csproj|d:\\3_\u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442 5\\pc_assembly\\pc_assembly\\pages\\listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A124FFF-6369-FB19-2800-16CCF63AAD5C}|PC_assembly\\PC_assembly.csproj|solutionrelative:pc_assembly\\pages\\listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A124FFF-6369-FB19-2800-16CCF63AAD5C}|PC_assembly\\PC_assembly.csproj|d:\\3_\u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442 5\\pc_assembly\\pc_assembly\\pages\\buildpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A124FFF-6369-FB19-2800-16CCF63AAD5C}|PC_assembly\\PC_assembly.csproj|solutionrelative:pc_assembly\\pages\\buildpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A124FFF-6369-FB19-2800-16CCF63AAD5C}|PC_assembly\\PC_assembly.csproj|d:\\3_\u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442 5\\pc_assembly\\pc_assembly\\pages\\componentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A124FFF-6369-FB19-2800-16CCF63AAD5C}|PC_assembly\\PC_assembly.csproj|solutionrelative:pc_assembly\\pages\\componentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A124FFF-6369-FB19-2800-16CCF63AAD5C}|PC_assembly\\PC_assembly.csproj|d:\\3_\u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442 5\\pc_assembly\\pc_assembly\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A124FFF-6369-FB19-2800-16CCF63AAD5C}|PC_assembly\\PC_assembly.csproj|solutionrelative:pc_assembly\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A124FFF-6369-FB19-2800-16CCF63AAD5C}|PC_assembly\\PC_assembly.csproj|d:\\3_\u043A\u0443\u0440\u0441\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442 5\\pc_assembly\\pc_assembly\\build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A124FFF-6369-FB19-2800-16CCF63AAD5C}|PC_assembly\\PC_assembly.csproj|solutionrelative:pc_assembly\\build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListPage.xaml",
+              "DocumentMoniker": "D:\\3_\u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442 5\\PC_assembly\\PC_assembly\\Pages\\ListPage.xaml",
+              "RelativeDocumentMoniker": "PC_assembly\\Pages\\ListPage.xaml",
+              "ToolTip": "D:\\3_\u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442 5\\PC_assembly\\PC_assembly\\Pages\\ListPage.xaml",
+              "RelativeToolTip": "PC_assembly\\Pages\\ListPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-05T13:57:17.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BuildPage.xaml",
+              "DocumentMoniker": "D:\\3_\u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442 5\\PC_assembly\\PC_assembly\\Pages\\BuildPage.xaml",
+              "RelativeDocumentMoniker": "PC_assembly\\Pages\\BuildPage.xaml",
+              "ToolTip": "D:\\3_\u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442 5\\PC_assembly\\PC_assembly\\Pages\\BuildPage.xaml",
+              "RelativeToolTip": "PC_assembly\\Pages\\BuildPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-05T14:07:13.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComponentPage.xaml",
+              "DocumentMoniker": "D:\\3_\u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442 5\\PC_assembly\\PC_assembly\\Pages\\ComponentPage.xaml",
+              "RelativeDocumentMoniker": "PC_assembly\\Pages\\ComponentPage.xaml",
+              "ToolTip": "D:\\3_\u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442 5\\PC_assembly\\PC_assembly\\Pages\\ComponentPage.xaml",
+              "RelativeToolTip": "PC_assembly\\Pages\\ComponentPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-05T14:07:43.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListPage.xaml.cs",
+              "DocumentMoniker": "D:\\3_\u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442 5\\PC_assembly\\PC_assembly\\Pages\\ListPage.xaml.cs",
+              "RelativeDocumentMoniker": "PC_assembly\\Pages\\ListPage.xaml.cs",
+              "ToolTip": "D:\\3_\u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442 5\\PC_assembly\\PC_assembly\\Pages\\ListPage.xaml.cs",
+              "RelativeToolTip": "PC_assembly\\Pages\\ListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T15:44:14.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuildPage.xaml.cs",
+              "DocumentMoniker": "D:\\3_\u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442 5\\PC_assembly\\PC_assembly\\Pages\\BuildPage.xaml.cs",
+              "RelativeDocumentMoniker": "PC_assembly\\Pages\\BuildPage.xaml.cs",
+              "ToolTip": "D:\\3_\u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442 5\\PC_assembly\\PC_assembly\\Pages\\BuildPage.xaml.cs",
+              "RelativeToolTip": "PC_assembly\\Pages\\BuildPage.xaml.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAUwIcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T15:43:50.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComponentPage.xaml.cs",
+              "DocumentMoniker": "D:\\3_\u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442 5\\PC_assembly\\PC_assembly\\Pages\\ComponentPage.xaml.cs",
+              "RelativeDocumentMoniker": "PC_assembly\\Pages\\ComponentPage.xaml.cs",
+              "ToolTip": "D:\\3_\u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442 5\\PC_assembly\\PC_assembly\\Pages\\ComponentPage.xaml.cs",
+              "RelativeToolTip": "PC_assembly\\Pages\\ComponentPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T15:44:08.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Component.cs",
+              "DocumentMoniker": "D:\\3_\u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442 5\\PC_assembly\\PC_assembly\\Component.cs",
+              "RelativeDocumentMoniker": "PC_assembly\\Component.cs",
+              "ToolTip": "D:\\3_\u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442 5\\PC_assembly\\PC_assembly\\Component.cs",
+              "RelativeToolTip": "PC_assembly\\Component.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T15:44:20.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Build.cs",
+              "DocumentMoniker": "D:\\3_\u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442 5\\PC_assembly\\PC_assembly\\Build.cs",
+              "RelativeDocumentMoniker": "PC_assembly\\Build.cs",
+              "ToolTip": "D:\\3_\u043A\u0443\u0440\u0441\\\u0422\u0420\u041F\u041E\\\u043F\u0440\u0430\u043A\u0442 5\\PC_assembly\\PC_assembly\\Build.cs",
+              "RelativeToolTip": "PC_assembly\\Build.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAwFwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T03:40:01.03Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
